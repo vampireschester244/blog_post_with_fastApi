@@ -3,6 +3,7 @@
  - Fast API
  - Mongo DB
  - HTML/CSS
+ - Docker
  - Github Actions 
  # API Usage and Capabilities 
  ## Users
