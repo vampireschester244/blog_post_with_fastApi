@@ -3,6 +3,7 @@
  - Fast API
  - Mongo DB
  - HTML/CSS
+ - Github Actions 
  # API Usage and Capabilities 
  ## Users
   - Ability to register and login users for performing actions on their blogs.
